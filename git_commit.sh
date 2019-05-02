@@ -1,6 +1,6 @@
 #! /usr/bin/env bash
 
-gc() {
+git_commit() {
   for file in "$HOME"/.git_commit_templates/commit_templates/*;
   do
     if [ "$(basename "$file")" = "$1" ]; then
