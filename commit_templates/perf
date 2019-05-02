@@ -1,0 +1,14 @@
+perf(*):
+
+# Why is this change necessary?
+
+# How does it address the issue?
+
+# What side effects does this change have?
+
+# What's the trade off for doing it?
+
+# ---------------------------------------------------------------------------- #
+# Commit Perf: Code that only changes its performance/optimization
+#
+# Do not assume the reviewer understands what the original problem was.

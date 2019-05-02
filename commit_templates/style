@@ -1,0 +1,6 @@
+style(*):
+
+# ---------------------------------------------------------------------------- #
+# Commit Style: For code formatting changes (linter issues, missing semicolon)
+#
+# Do not assume the reviewer understands what the original problem was

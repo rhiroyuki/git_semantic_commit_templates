@@ -1,0 +1,12 @@
+fix(*):
+
+# Why is this necessary?
+
+# What unexpected behavior happened? What is the expected behavior?
+
+# Briefly explain the actual solution if this fix is only temporary
+
+# ---------------------------------------------------------------------------- #
+# Commit Fix: For bug fixes
+#
+# Do not assume the reviewer understands what the original problem was.

@@ -1,0 +1,13 @@
+chore(*):
+
+# Why is this necessary?
+
+# How does it address the issue?
+
+# What side effects does this change have?
+
+# ---------------------------------------------------------------------------- #
+# Commit Chore: Code change that doesn't affect the final user.
+# (library upgrade, task update)
+#
+# Do not assume the reviewer understands what the original problem was.

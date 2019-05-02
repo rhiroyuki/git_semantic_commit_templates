@@ -1,0 +1,17 @@
+feat(*):
+
+# Why is this change necessary?
+
+# How does it address the issue?
+
+# What side effects does this change have?
+
+# Explain the ideal implementation if there is a technical debt
+
+# Any breaking changes? Add a exclamation mark to the commit: `feat!(*): ...`
+# and write it down here
+
+# ---------------------------------------------------------------------------- #
+# Commit Feat: For code that introduces new features.
+#
+# Do not assume the reviewer understands what the original problem was.
